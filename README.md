@@ -100,9 +100,9 @@ Goals:
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samyakdutta835&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
