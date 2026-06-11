@@ -138,10 +138,10 @@ Goals:
 
 # 🐍 Contribution Snake
 
-> Create `.github/workflows/snake.yml` to enable this.
+
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/samyakdutta835/samyakdutta835/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/samyakdutta835/samyakdutta835/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
