@@ -140,6 +140,8 @@ Goals:
 
 
 
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/samyakdutta835/samyakdutta835/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
