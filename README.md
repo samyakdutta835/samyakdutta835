@@ -5,7 +5,7 @@ Turning ideas into code • Learning by building • Exploring AI and software e
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer+💻;AI+Enthusiast+🤖;Always+Learning+📚;Open+Source+Explorer+🌍;Building+Cool+Things+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend Developer+💻;AI+Enthusiast+🤖;Always+Learning+📚;Open+Source+Explorer+🌍;Building+Cool+Things+🚀">
 </p>
 
 <p align="left">
