@@ -146,7 +146,5 @@ Thank you for visiting my profile ❤️
 </h3>
 
 <p align="center">
-
-⭐ If you like my work, consider starring my repositories.
-
+⭐ <strong>If you like my work, consider starring my repositories.</strong>
 </p>
