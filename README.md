@@ -57,21 +57,24 @@ I'm a Computer Science Engineering student passionate about engineering thoughtf
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="PostgreSQL, MySQL, MongoDB, and Prisma" />
 </p>
 
-**Additional Technologies**
+### Additional Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,prisma" alt="PostgreSQL, Express, React, Node.js, and Prisma" />
+  <img src="./assets/icons/neon-logo.png" width="48" height="48" alt="Neon PostgreSQL" />
+  <img src="./assets/icons/pern-stack-symbol.png" width="48" height="48" alt="PERN Stack" />
 </p>
 
-Neon PostgreSQL · REST API Development · PERN Stack
+**Also:** REST API Development · Neon PostgreSQL · PERN Stack
 
 ### Artificial Intelligence & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv" alt="Python, TensorFlow, PyTorch, Scikit-learn, and OpenCV" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" alt="Python, TensorFlow, PyTorch, Scikit-learn, and OpenCV" />
+  <img src="./assets/icons/matplotlib-logo.png" width="48" height="48" alt="Matplotlib" />
+  <img src="./assets/icons/generative-ai.svg" width="48" height="48" alt="Generative AI" />
 </p>
 
-**Additional libraries:** NumPy · Pandas · Matplotlib · Generative AI
+**Additional libraries and topics:** NumPy · Pandas · Matplotlib · Generative AI · Statistical Analysis
 
 ### Tools & Deployment
 
