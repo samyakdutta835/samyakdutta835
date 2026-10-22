@@ -57,11 +57,21 @@ I'm a Computer Science Engineering student passionate about engineering thoughtf
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="PostgreSQL, MySQL, MongoDB, and Prisma" />
 </p>
 
-**Additional technologies:** Neon PostgreSQL, REST APIs, and the PERN stack.
+**Additional Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,prisma" alt="PostgreSQL, Express, React, Node.js, and Prisma" />
+</p>
+
+Neon PostgreSQL · REST API Development · PERN Stack
 
 ### Artificial Intelligence & Data Science
 
-Python · Generative AI · Machine Learning · NumPy · Pandas · Matplotlib · Scikit-learn · OpenCV
+<p>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv" alt="Python, TensorFlow, PyTorch, Scikit-learn, and OpenCV" />
+</p>
+
+**Additional libraries:** NumPy · Pandas · Matplotlib · Generative AI
 
 ### Tools & Deployment
 
