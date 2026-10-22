@@ -61,20 +61,18 @@ I'm a Computer Science Engineering student passionate about engineering thoughtf
 
 <p>
   <img src="./assets/icons/neon-logo.png" width="48" height="48" alt="Neon PostgreSQL" />
-  <img src="./assets/icons/pern-stack-symbol.png" width="48" height="48" alt="PERN Stack" />
+  <!-- <img src="./assets/icons/pern-stack-symbol.png" width="48" height="48" alt="PERN Stack" /> -->
+  <img src="./assets/icons/rest_api.png" width="48" height="48" alt="Rest API" />
+  
 </p>
-
-**Also:** REST API Development · Neon PostgreSQL · PERN Stack
 
 ### Artificial Intelligence & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" alt="Python, TensorFlow, PyTorch, Scikit-learn, and OpenCV" />
-  <img src="./assets/icons/matplotlib-logo.png" width="48" height="48" alt="Matplotlib" />
-  <img src="./assets/icons/generative-ai.svg" width="48" height="48" alt="Generative AI" />
+  <img src="./assets/icons/matplotlib.png" width="48" height="48" alt="Matplotlib" />
+  <img src="./assets/icons/gen_ai.png" width="48" height="48" alt="Generative AI" />
 </p>
-
-**Additional libraries and topics:** NumPy · Pandas · Matplotlib · Generative AI · Statistical Analysis
 
 ### Tools & Deployment
 
