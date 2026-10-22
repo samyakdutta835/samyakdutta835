@@ -2,10 +2,10 @@
 
 ### Full-Stack Developer | Python Developer | Generative AI Enthusiast
 
-I’m a Computer Science Engineering student passionate about building modern web applications, developing practical software solutions, and exploring Generative AI. I enjoy turning ideas into projects while continuously learning new technologies and strengthening my development skills.
+I'm a Computer Science Engineering student passionate about engineering thoughtful software, building modern web applications, and exploring the possibilities of Generative AI. I enjoy turning ideas into practical solutions and continuously improving through experimentation, problem-solving, and hands-on development.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development;Python+%26+Problem+Solving;PERN+Stack+Development;Generative+AI+Applications;Building+Projects%2C+Learning+Every+Day" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Development;Python+%26+Problem+Solving;PERN+Stack+Engineering;Exploring+Generative+AI;Learn.+Build.+Iterate.+Improve." alt="Developer introduction" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ I’m a Computer Science Engineering student passionate about building modern we
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/samyakdutta835">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -22,12 +22,12 @@ I’m a Computer Science Engineering student passionate about building modern we
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering student.
-- 💻 Interested in full-stack development and software engineering.
-- ⚙️ Building applications with React, TypeScript, Node.js, and PostgreSQL.
+- 🌐 Focused on full-stack development and modern web technologies.
+- ⚙️ Working with React, TypeScript, Node.js, Express, and PostgreSQL.
 - 🤖 Exploring Generative AI and AI-powered application development.
-- 🐍 Enjoy working with Python, programming fundamentals, and problem-solving.
-- 🚀 Learning by building projects and deploying applications.
-- 🤝 Open to collaborating on interesting development projects.
+- 🐍 Building on my Python programming and machine learning foundations.
+- 🚀 Interested in software architecture, deployment, and practical problem-solving.
+- 🤝 Open to meaningful technical collaborations and learning opportunities.
 
 ---
 
@@ -66,61 +66,65 @@ Python · Generative AI · Machine Learning · NumPy · Pandas · Matplotlib · 
 ### Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, Visual Studio Code, and Vercel" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter Notebook" />
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 My Engineering Mindset
 
-### 01. OmniAI — Generative AI Platform
+I believe good software comes from more than knowing a programming language. It requires curiosity, deliberate decisions, attention to detail, and a willingness to keep improving.
 
-An all-in-one Generative AI platform designed to bring creative and productivity tools together in one place.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>01 · Think Critically</h3>
+      Understand the problem before choosing the technology. Break complex challenges into manageable pieces.
+    </td>
+    <td width="50%">
+      <h3>02 · Build Intentionally</h3>
+      Choose suitable tools, write maintainable code, and consider the experience of the people using the software.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>03 · Learn Continuously</h3>
+      Explore new concepts, experiment with unfamiliar technologies, and learn from mistakes.
+    </td>
+    <td width="50%">
+      <h3>04 · Improve Relentlessly</h3>
+      Test assumptions, refine implementations, and look for opportunities to make software better.
+    </td>
+  </tr>
+</table>
 
-**Highlights**
-- Exploring integrations with Gemini, Groq, and OpenRouter.
-- Planning a modular platform for multiple AI-powered workflows.
-- Designing a responsive interface with light mode, dark mode, and customizable themes.
+### My Development Cycle
 
-**Tech stack:** React · TypeScript · Tailwind CSS · Generative AI APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Understand-1D4ED8?style=for-the-badge" alt="Understand" />
+  →
+  <img src="https://img.shields.io/badge/02-Design-4338CA?style=for-the-badge" alt="Design" />
+  →
+  <img src="https://img.shields.io/badge/03-Build-0369A1?style=for-the-badge" alt="Build" />
+  →
+  <img src="https://img.shields.io/badge/04-Refine-0F766E?style=for-the-badge" alt="Refine" />
+</p>
 
-**Status:** In development
+---
 
-### 02. Folio — AI-Powered Resume Builder
+## 🎯 Where I'm Growing
 
-A full-stack resume-building application designed to help users create professional resumes with AI-assisted features.
+| Area | Direction |
+|---|---|
+| Full-Stack Engineering | Building across frontend, backend, and relational databases |
+| Backend Development | Strengthening API design, application architecture, and data handling |
+| Generative AI | Exploring AI APIs and practical AI-powered workflows |
+| Modern Web Experiences | Creating responsive interfaces and exploring interactive web technologies |
+| Computer Science | Improving problem-solving, DSA, and software development fundamentals |
 
-**Highlights**
-- Frontend development using React and TypeScript.
-- Backend API development with Node.js and Express.
-- Database integration using Prisma and Neon PostgreSQL.
-- Deployed frontend and backend services.
-
-**Tech stack:** React · TypeScript · Node.js · Express.js · Prisma · Neon PostgreSQL
-
-**Live application:** [Folio](https://folio-weld-theta.vercel.app/)
-
-### 03. WebForge AI — AI Website Builder
-
-An AI-powered website builder designed to transform user prompts into website content and project files through a web-based development interface.
-
-**Highlights**
-- AI-assisted website generation workflow.
-- Backend APIs and PostgreSQL database integration.
-- Project and file management functionality.
-- Full-stack application architecture.
-
-**Tech stack:** React · Node.js · Express.js · PostgreSQL · Prisma · Generative AI APIs
-
-### Other Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| Golden Spoon Restaurant | Responsive restaurant website with a modern interface. | HTML, CSS, JavaScript |
-| Expense Tracker | React application for managing income and expenses. | React, JavaScript, CSS |
-| Face Recognition Attendance System | Attendance management application using face recognition. | Python, OpenCV |
+I value consistent progress over shortcuts and aim to develop skills that translate into reliable, useful software.
 
 ---
 
@@ -137,35 +141,27 @@ An AI-powered website builder designed to transform user prompts into website co
 
 ---
 
-## 🎯 Current Focus
+## 💡 A Principle I Follow
 
-- Building full-stack applications with the PERN stack.
-- Improving backend architecture and REST API development.
-- Exploring Generative AI integrations and AI-powered tools.
-- Developing modern interfaces with React, Tailwind CSS, and Three.js.
-- Strengthening problem-solving skills and expanding my project portfolio.
+> “Learn deeply. Build thoughtfully. Improve continuously.”
 
----
-
-## 💡 My Philosophy
-
-> Build with curiosity. Learn through experimentation. Improve with every project.
+For me, development is a continuous process of asking better questions, understanding systems, and turning knowledge into practical outcomes.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm interested in learning, sharing ideas, and collaborating on meaningful software projects.
+I'm always interested in exchanging ideas, learning from other developers, and collaborating on meaningful technology.
 
 <p align="center">
   <a href="mailto:samyakdutta835@gmail.com">
     <img src="https://img.shields.io/badge/Email-samyakdutta835%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Samyak" />
   </a>
   <a href="https://github.com/samyakdutta835">
-    <img src="https://img.shields.io/badge/GitHub-samyakdutta835-181717?style=flat-square&logo=github&logoColor=white" alt="Samyak's GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-samyakdutta835-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
+  <sub>Thanks for visiting my profile. Keep learning, keep building, and keep moving forward. 🚀</sub>
 </p>
