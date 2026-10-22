@@ -66,7 +66,9 @@ Python · Generative AI · Machine Learning · NumPy · Pandas · Matplotlib · 
 ### Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel,render" alt="Git, GitHub, VS Code, Jupyter, Vercel, and Render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, and Vercel" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter Notebook" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" />
 </p>
 
 ---
